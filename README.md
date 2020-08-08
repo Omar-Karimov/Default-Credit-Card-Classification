@@ -8,8 +8,4 @@ Credit default is one of the most important problems in the banking and risk ana
 This dataset contains information on default payments, demographic factors, credit data, history of payment,
 and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
-### Task
-
-Can you build a machine learning model to accurately predict whether or not a particular customer will be default?
-
 Sorce: https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
