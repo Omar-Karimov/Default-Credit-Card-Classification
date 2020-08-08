@@ -1,12 +1,15 @@
-# Diabetes-Data-Set-Classification
-Predict the onset of diabetes based on diagnostic measures
+# Default Credit Card - Classification
+
+In this study, we will create a Random Forests model to predict whether a particular customer will default.
+Credit default is one of the most important problems in the banking and risk analytics industry.
 
 ### Data Set Information
 
-The datasets consists of several medical predictor variables and one target variable, Outcome. 
-Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+This dataset contains information on default payments, demographic factors, credit data, history of payment,
+and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 ### Task
-Can you build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
 
-Sorce: https://www.kaggle.com/uciml/pima-indians-diabetes-database
+Can you build a machine learning model to accurately predict whether or not a particular customer will be default?
+
+Sorce: https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
