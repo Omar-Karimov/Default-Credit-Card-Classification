@@ -3,6 +3,8 @@
 In this study, we will create a Random Forests model to predict whether a particular customer will default.
 Credit default is one of the most important problems in the banking and risk analytics industry.
 
+![](Image/images.png)
+
 ### Data Set Information
 
 This dataset contains information on default payments, demographic factors, credit data, history of payment,
